@@ -10,8 +10,8 @@
 - 🔭 Take a look at my repositories!
 - 🌱 I’m 18 years old!
 - 👯 I’m publish paid projects for free
-- 📫 How to reach me: https://t.me/JAIITHON_Userbot
-- 📫 My telegram channel for updates: https://t.me/JAIITHON
+- 📫 How to reach me: https://t.me/Abu_Hadieda
+- 📫 My telegram channel for updates: https://t.me/Abo_Hadieda
 
 [![My Skills](https://skills.thijs.gg/icons?i=html,python,markdown&theme=dark)](https://skills.thijs.gg)
 
